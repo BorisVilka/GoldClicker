@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982232595228",
+    "project_id": "clicker-4314a",
+    "storage_bucket": "clicker-4314a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982232595228:android:88b3e5a869837070e218d9",
+        "android_client_info": {
+          "package_name": "org.dreamempire.goldclicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982232595228-jttm5o9lovqat0u63kp4ql78bhic8bru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtsBGHBBuw-NC_YxQ-40qTRsG6fwp-dcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982232595228-jttm5o9lovqat0u63kp4ql78bhic8bru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
